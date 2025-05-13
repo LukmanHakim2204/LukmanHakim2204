@@ -1,6 +1,6 @@
 ![Lukman Hakim](./lukman.png)
-<h1 align="left">Hey 👋, I'm Lukman Hakim</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Lukman+Hakim)](https://git.io/typing-svg)
 ###
 
 <p align="left"></p>
