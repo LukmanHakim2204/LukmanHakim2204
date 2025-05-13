@@ -1,4 +1,4 @@
-![Lukman Hakim](./man.png)
+![Lukman Hakim](./lukman.png)
 <h1 align="left">Hey 👋, I'm Lukman Hakim</h1>
 
 ###
