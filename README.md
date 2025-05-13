@@ -1,6 +1,6 @@
 ![Lukman Hakim](./lukman.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Lukman+Hakim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Lukman+Hakim)](https://git.io/typing-svg)
 ###
 
 <p align="left"></p>
