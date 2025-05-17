@@ -22,7 +22,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   <img width="12" />
-   <a href=www.linkedin.com/in/lukman-hakim22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /> </a>
+   <a href="https://www.linkedin.com/in/lukman-hakim22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/> </a>
 </div>
 
 ###
